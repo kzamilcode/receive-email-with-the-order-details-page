@@ -13037,6 +13037,52 @@ hr {
   text-align: center;
   color: #fff;
 }
+.division-category .single-category .img-area {
+  background: url(https://divisionco.com/public/images/xcategory-white-bg.png.pagespeed.ic.hYv_mE3Wvk.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: 100% 100%;
+  text-align: center;
+  padding: 20px;
+  height: 220px;
+  position: relative;
+}
+.division-category .single-category .img-area .arrow {
+  background: #15375a;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  width: 30px;
+  height: 30px;
+  color: #fff;
+  border-radius: 100%;
+  font-size: 18px;
+  position: absolute;
+  right: 26px;
+  bottom: 11px;
+}
+.division-category .single-category {
+  background: linear-gradient(150.18deg, #15375a 3.04%, #245e96 93.99%);
+  box-shadow: 0 8px 10px rgba(0, 0, 0, 0.1), 0 -10px 30px rgba(21, 55, 90, 0.1);
+  border-radius: 38px;
+  margin-bottom: 60px;
+}
+.division-category .division-category-title {
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 1.1;
+  color: #000;
+  margin-bottom: 30px;
+}
+.division-category .single-category .title {
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 1;
+  color: #f0f8ff;
+  padding: 14px 25px 22px;
+}
+.division-category .single-category img {
+  max-width: 100px;
+  margin-top: 16px;
+}
 .success-icon .success-contain h4 {
   color: #fff;
   font-size: 30px;
